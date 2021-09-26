@@ -1,0 +1,13 @@
+How to become a SDET?
+“You can’t continue testing manually, the way that it always had been done when you have an enterprise that’s moving at the speed of light” - Jennifer Sepull, former CIO, USAA, Kimberly Clark, American Honda
+Organizations and enterprises are evolving at a fast pace. The need for rapid release of products is unprecedented. Software testing as well as software development, form two of the crucial phases in the lifecycle of software making. This testing can be conducted in a manual as well as an automated fashion; however, given the shortcomings of manual testing, there is an increasing demand from Automation Testers to write automated checks and consequently of individuals who are able to play the role of testers as well as developers. Consequently, the demand for Software Development Engineers in Test (SDET) is spiraling at a swift rate and it is important to understand how to become a SDET as one opts for this lucrative career opportunity.
+
+In this blog, we will try to answer the question of how to become a SDET by understanding a SDET’s Roles and Responsibilities as well as the learning road map of Automation Tester.
+
+What is SDET?
+SDET Roles and Responsibilities
+How to become a SDET: Skills Required
+SDET Learning Path
+Future of SDET
+How to Become a SDET: Things to Learn
+Conclusion
