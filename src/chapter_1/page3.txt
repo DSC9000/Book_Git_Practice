@@ -1,0 +1,5 @@
+Git in IntelliJ
+- Where it said VSC before should now say Git and have some new options
+- Your files will get some coloring, this is normal
+- Red: file is unversioned
+- Green: actively changed and ready to be part of a repository
