@@ -28,3 +28,5 @@ An Inquisitive Bent of Mind: There cannot be a predetermined chart of a SDET Rol
 Communication Skills: The position of a SDET is located somewhere in between a developer and a tester. This means that a SDET is not only responsible for conducting tests, but they are also required to produce test strategies and bug reports. In order to ensure that these are easily understandable. SDETs should possess excellent verbal and written communication skills.
 Team Player: Collaboration is one of the key skills of an individual in the capacity of a SDET. SDETs cannot blindly automate tests. They need to collaborate with other key players like manual testers, developers as well as product owners and business analysts, in order to develop a viable strategy for automation.
 Time Management and Organization Skills: When you try to figure out how to become a SDET, you should be aware of the fact that besides being lucrative, a SDET’s job is demanding as well. It is important that an Automation Tester is able to efficiently manage the workload, displays high productivity and has excellent time management skills.
+
+The  end
