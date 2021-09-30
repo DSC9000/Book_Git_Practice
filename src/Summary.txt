@@ -26,3 +26,9 @@ Git in IntelliJ –Use the branch•Create a new branch called feature-1 and che
 
 
 Merge conflict•Merge conflict occur when trying to merge but there is some difference between branches or repositories •What is the difference? •The same file having different updates•Let’s force a conflict to see an example•What's the best way to handle conflicts? •Avoid them
+
+Line 1
+
+
+
+
