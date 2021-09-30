@@ -6,6 +6,12 @@ omit -r so it will be git rm --cached fileName-This will remove .idea folder fro
 local git repo and will not track it from this point on. 
 -Make a commit and select all un-versioned files from commit window and commit
 -Push it back to remote and observe it's been removed from remote repo
+
+
+
+
+
+
 BranchingBranching in git is like opening upa new timeline for new work to not affect what's already in the master branch.It's light-weight, easy to create and when things do not work you can easily remove it, when it works you can merge your changes into the master branch to get all your work reflected in master.? What is the master branch ?https://git-school.github.io/visualizing-git/
 
 
